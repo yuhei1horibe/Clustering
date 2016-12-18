@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Clustering">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\Yuhei\Programs\自作プログラム\Clustering\Clustering.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\Yuhei\Programs\自作プログラム\Clustering\Clustering.suo">
+</Property><Property Name="Date" Value="2009年9月26日">
+</Property><Property Name="Time" Value="0:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Clustering.sln" Description="ファイルは正常に C:\Users\Yuhei\Programs\自作プログラム\Clustering\Clustering.sln.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="Clustering.suo" Description="ファイルは正常に C:\Users\Yuhei\Programs\自作プログラム\Clustering\Clustering.suo.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="シングル スレッドのランタイム ライブラリ スイッチ (/MLd, /ML) が C++ コンパイラから削除されました。プロジェクトは、マルチ スレッドのランタイム ライブラリ スイッチ (/MTd, /MT) を使用するように、自動的に変換されました。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="Visual C++ では、C および C++ ライブラリの安全性が向上しています。これには、新しい関数や強化された関数、追加のチェック機能や検証機能、および内部設計の変更が含まれます。これらのライブラリは、既定で有効になっています。プロジェクトをビルドするときに、安全ではない関数やパラメータに関する警告が表示される可能性があります。通常、この警告にはより安全なコーディング方法や関数が示されます。コードをより安全にするために、これらの警告に従って修正することをお勧めします。詳細については、ドキュメントの「CRT のセキュリティ強化」および「Checked Iterators」を参照してください。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="C/C++ コンパイラの既定の設定は、ISO 標準の C++ により準拠するように編集されました。変更には、ループ スコープに対して標準 C++ を適用したり、wchar_t をネイティブ型としてサポートすることなどが含まれます。これらの変更によって、既存のコードが、コードへの変更、またはビルドされたときのコンパイラ オプションを含まずに、コンパイルされることがなくなる可能性があります。">
+</Event><Event ErrorLevel="1" Project="Clustering" Source="Clustering.vcproj" Description="Visual C++ プロジェクトが埋め込み (既定で) Windows SxS マニフェストを生成する必要条件によって、プロジェクト内のマニフェスト ファイルは、マニフェスト ツールで自動的にビルドされるようになります。正常動作のために、場合によってはビルドを変更する必要があります。たとえば、すべてのマニフェスト ファイルに含まれる依存関係情報を、ソース コードからインクルードされたヘッダー ファイル内で、&quot;#pragma コメント (リンカ、&quot;&lt;依存関係をここに挿入&gt;&quot;)&quot; に変換することをお勧めします。プロジェクトが、リソース (.rc) ファイルをとおして RT_MANIFEST リソース セクションにマニフェストを埋め込んでいる場合、その行をコメント アウトしないと、正しくビルドされない可能性があります。">
+</Event><Event ErrorLevel="1" Project="Clustering" Source="Clustering.vcproj" Description="C++ コンパイラの準拠の変更によって、プロジェクトがビルドする前にコード変更が必要になる場合があります。C++ コンパイラの旧バージョンは、メンバ関数名 (例: MemberFunctionName) によるメンバ関数ポインタの指定を許可していました。C++ 標準では、演算子のアドレスを使用した完全修飾名 (例: &amp;ClassName::MemberFunctionName) が必要です。プロジェクトが Windows フォーム デザイナで使用されたフォームやコントロールを含む場合は、デザイナが生成したコードがデリゲート構築で規格外の構文を使ったため (イベント ハンドラを使用して)、InitializeComponent でコード変更をしなければならない可能性があります。">
+</Event><Event ErrorLevel="1" Project="Clustering" Source="Clustering.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="プロジェクト ファイルは正常に 'C:\Users\Yuhei\Programs\自作プログラム\Clustering\Clustering.vcproj.7.10.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Clustering" Source="Clustering.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Clustering" Source="Clustering.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Clustering.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="Clustering.sln" Description="Converted">
+</Event></UpgradeLog>
